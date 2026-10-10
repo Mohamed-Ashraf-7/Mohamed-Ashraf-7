@@ -92,6 +92,8 @@ I'm **Mohamed Eltelbany**, an AI Engineer passionate about turning complex probl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="55" alt="qt logo"  />
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="55" alt="amazonwebservices logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="linux logo"  />
 </div>
 
 
