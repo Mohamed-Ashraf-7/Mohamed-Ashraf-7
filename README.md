@@ -94,11 +94,7 @@ I'm **Mohamed Eltelbany**, an AI Engineer passionate about turning complex probl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="55" alt="amazonwebservices logo"  />
 </div>
 
-###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Mohamed-Ashraf-7/Mohamed-Ashraf-7/snake-output/snake.svg" alt="Snake animation" />
-
-###
 
 ## 🌐 Connect With Me
 
